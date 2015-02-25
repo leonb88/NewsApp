@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>UsipitweApiExample</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>usipitweandroidapi-v1-generated-source</name>
+			<type>2</type>
+			<location>C:/Users/Arnold/workspace/unapitwa/Usipitwe/endpoint-libs/libusipitweAndroidApi-v1/usipitweAndroidApi/usipitweandroidapi-v1-generated-source</location>
+		</link>
+	</linkedResources>
+</projectDescription>

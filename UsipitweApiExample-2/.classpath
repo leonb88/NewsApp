@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="usipitweandroidapi-v1-generated-source"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/endpoints-client"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-api-client-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-api-client-android-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-api-client-appengine-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-api-client-gson-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-api-client-jackson2-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-api-client-java6-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-api-client-servlet-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-http-client-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-http-client-android-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-http-client-appengine-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-http-client-gson-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-http-client-jackson2-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-http-client-jdo-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-oauth-client-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-oauth-client-appengine-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-oauth-client-java6-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-oauth-client-jetty-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/google-oauth-client-servlet-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/leon/Documents/NewsApp/libusipitweAndroidApi-v1/usipitweAndroidApi/libs/transaction-api-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
